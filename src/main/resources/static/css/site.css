@@ -15,3 +15,21 @@ h1 {
 .container {
   padding: 2px 16px;
 }
+
+.navbar{
+  border: 1px solid #000;
+  background-color: darkslategray;
+  margin: 0px;
+  padding: 10px;
+}
+
+.navbar a{
+  color: azure;
+  text-decoration: none;
+  padding: 20px;
+}
+
+.navbar a:hover{
+  background-color: dimgray;
+  padding: auto;
+}
